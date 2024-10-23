@@ -23,16 +23,16 @@ var app = new function() {
     this.col3 = "#fdba46", 
     this.col4 = "#fdba46", 
     this.animearray = [
-    {name: "01_Kick", color: "fdba46", uniqsnd: !0},
-    {name: "02_Snare", color: "fdba46", uniqsnd: !0},
-    {name: "03_Hit_Hats", color: "fdba46", uniqsnd: !1},
+    {name: "01_Kakker", color: "fdba46", uniqsnd: !0},
+    {name: "02_Snick", color: "fdba46", uniqsnd: !0},
+    {name: "03_Hikutis", color: "fdba46", uniqsnd: !1},
     {name: "04_Cobw", color: "fdba46", uniqsnd: !0},
     {name: "05_Kah", color: "fdba46", uniqsnd: !0},
-    {name: "06_Ebass", color: "fdba46", uniqsnd: !1},
-    {name: "07_Hert_Not_K", color: "fdba46", uniqsnd: !1},
+    {name: "06_Bassle", color: "fdba46", uniqsnd: !1},
+    {name: "07_Hertis", color: "fdba46", uniqsnd: !1},
     {name: "11_Razor", color: "fdba46", uniqsnd: !1},
     {name: "12_Bruss", color: "fdba46", uniqsnd: !1},
-    {name: "13_Hert_K", color: "fdba46", uniqsnd: !1}
+    {name: "13_Murkis", color: "fdba46", uniqsnd: !1}
     ], this.bonusarray = [];
     for (var n = 0, o = this.animearray.length; n < o; n++) {
         var a = this.animearray[n].name;
